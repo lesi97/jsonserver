@@ -1,1 +1,19 @@
-
+{
+  "cats":[
+    {
+    "id":"0001",
+    "description":"",
+    "imageFile":"/images/cat1.jpg"
+    },
+   {
+    "id":"0002",
+    "description":"",
+    "imageFile":"/images/cat2.jpg"
+    },
+     {
+    "id":"0003",
+    "description":"",
+    "imageFile":"/images/cat3.jpg"
+    }
+  ]
+}
