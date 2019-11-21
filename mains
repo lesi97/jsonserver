@@ -1,0 +1,12 @@
+  
+{
+  "cars":[
+    {
+    "id":"0001","food":"Burger",
+    "type":"chicken",
+    "description":"Chicken Burger",
+    "cost":"&#0163;4.50",
+    "imageFile":"burger.jpg"
+    },
+  ]
+}
