@@ -1,0 +1,33 @@
+  
+{
+  "food":[
+    {
+    "id":"0001","food":"pizza",
+    "type":"main",
+    "description":"Margherita",
+    "cost":"&#0163;8.50",
+    "imageFile":"cheesePizza.jpg"
+    },
+    {
+    "id":"0002","food":"fishChips",
+    "type":"main",
+    "description":"Fish & Chips",
+    "cost":"&#0163;5.50",
+    "imageFile":"fishAndChips.jpg"
+    },
+    {
+    "id":"0003","food":"burger",
+    "type":"main",
+    "description":"Beef Burger",
+    "cost":"&#0163;4.50",
+    "imageFile":"burger.jpg"
+    },
+    {
+    "id":"0004","food":"pie",
+    "type":"main",
+    "description":"Steak & Ale Pie",
+    "cost":"&#0163;5.50",
+    "imageFile":"pie.jpg"
+    },
+  ]
+}
